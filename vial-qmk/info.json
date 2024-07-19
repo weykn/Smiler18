@@ -1,0 +1,51 @@
+{
+    "manufacturer": "wintroydev",
+    "keyboard_name": "smiler18",
+    "maintainer": "wintroydev",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP0", "GP1", "GP2", "GP3", "GP4", "GP5", "GP6", "GP7", "GP8", "GP9", "GP10", "GP11", "GP15", "GP14", "GP13", "GP27", "GP26", "GP12"]
+        ]
+    },
+    "processor": "RP2040",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_ortho_x": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [0, 3], "x": 3, "y": 0},
+                {"matrix": [0, 4], "x": 4, "y": 0},
+                {"matrix": [0, 5], "x": 5, "y": 0},
+                {"matrix": [0, 6], "x": 6, "y": 0},
+                {"matrix": [0, 7], "x": 7, "y": 0},
+                {"matrix": [0, 8], "x": 8, "y": 0},
+                {"matrix": [0, 9], "x": 9, "y": 0},
+                {"matrix": [0, 10], "x": 10, "y": 0},
+                {"matrix": [0, 11], "x": 11, "y": 0},
+                {"matrix": [0, 12], "x": 12, "y": 0},
+                {"matrix": [0, 13], "x": 13, "y": 0},
+                {"matrix": [0, 14], "x": 14, "y": 0},
+                {"matrix": [0, 15], "x": 15, "y": 0},
+                {"matrix": [0, 16], "x": 16, "y": 0},
+                {"matrix": [0, 17], "x": 17, "y": 0}
+            ]            
+        }
+    }
+}
