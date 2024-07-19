@@ -25,4 +25,5 @@ You can find the necessary files for this project in the [Releases](https://gith
 - **UF2 File**: For flashing the firmware onto the RP2040 Zero.
 
 ## Images
+![Preview](images/done.png)
 ![Preview](images/preview.png)
