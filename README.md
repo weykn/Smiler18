@@ -23,6 +23,7 @@ To build the Smiler18, you will need the following components:
 You can find the necessary files for this project in the [Releases](https://github.com/wintroydev/Smiler18/releases/tag/main)
 - **Gerber File**: For PCB manufacturing.
 - **UF2 File**: For flashing the firmware onto the RP2040 Zero.
+- **VIL File**: VIAL config.
 
 ## Images
 ![Done](images/done.jpg)
