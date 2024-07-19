@@ -26,4 +26,4 @@ You can find the necessary files for this project in the [Releases](https://gith
 
 ## Images
 ![Done](images/done.jpg)
-![Preview](images/preview.png)
+![p](images/p.png)
