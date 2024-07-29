@@ -27,6 +27,7 @@ You can find the necessary files for this project in the [Releases](https://gith
 
 ## Images
 ![Done](images/done.jpg)
+![Led](images/led.jpg)
 ![p](images/p.png)
 ![Vial](images/vial.png)
 ![keymap](images/keymap-drawer.png)
